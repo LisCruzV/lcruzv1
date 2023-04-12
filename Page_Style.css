@@ -1,0 +1,17 @@
+@charset "utf-8";
+.list_Page_Style {
+    line-height: 1.2;
+    color: #000066;
+    font-family: Arial;
+    font-style: normal;
+    background-color: #F2F8F1;
+    font-size: medium;
+    font-weight: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+    list-style-position: outside;
+    float: none;
+    clear: none;
+    height: auto;
+    max-width: 95%;
+    }
